@@ -1,0 +1,26 @@
+.ellipsis-tooltip {
+	margin-top: 30% !important;
+	display: none;
+}
+
+.ellipsis-tooltip-theme {
+	border-radius: 4px;
+	font-size:15px;
+	padding: 5px;
+	border-radius: 4px;
+	background: black;
+	position: absolute;
+	color: white;
+	z-index: 1000;
+	width:300px;
+}
+
+.ellipsis-tooltip-nub {
+	left: 10px;
+	position: absolute;
+	right: auto;
+	top: -10px;
+	border-bottom: 10px solid black;
+	border-left: 10px solid transparent;
+	border-right: 10px solid transparent;
+}
