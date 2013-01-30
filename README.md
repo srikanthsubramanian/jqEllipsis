@@ -1,0 +1,4 @@
+jquery-ellipsis
+===============
+
+Jquery Ellipsis
