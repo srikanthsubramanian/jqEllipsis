@@ -1,7 +1,7 @@
 {
     "name": "jqEllipsis",
     "title": "jqEllipsis",
-    "description": "Plugin to ellipsify (shorten) your text in case it is very long.",
+    "description": "Jquery plugin to ellipsify (shorten) your text in case it is very long.",
     "keywords": [
         "ellipsis"
     ],
