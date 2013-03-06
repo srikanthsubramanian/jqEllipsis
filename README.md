@@ -8,12 +8,14 @@ count provided. An additional feature provided is that after ellipsifying the te
 as is, in a tooltip on mouse hover of the altered text.
 
 Plugin Usage
+===============
 
 The following code sample shows how to use the jqEllipsis plugin : 
 
 	$(element).ellipsis(20);
 
 Demo
+===============
 
 Take a look at the demo here - http://srikanthsubramanian.github.com/jqEllipsis
 
